@@ -59,3 +59,21 @@ The Match Stick game helps to develop fine motor skills and visual skills. It al
   
 •	It can be implemented in a business strategy to help improve it. Business strategy is about moving swiftly and getting an advantageous position. In match stick, this is pretty straight forward: The first mover can choose the best position. In business, it is a bit more complicated. Even if business strategy is more complex, the principle is the same: Move swiftly when the time comes, go for an advantageous position.
 
+# HIGH LEVEL TEST PLAN
+TEST ID | DESCRIPTION  | STATUS |
+--------|--------------|--------|
+HR01 |TO CHECK WHO PICKS UP THE LAST STICK|IMPLEMENTED|
+HR02 |USER ENTERED THE NUMBER OF CHOICE|IMPLEMENTED|
+HR03 |COMPUTER ENTERED THE NUMBER OF CHOICE|IMPLEMENTED|
+HR04 |CHECK WHO PICKED UP THE LAST STICK|IMPLEMENTED|
+HR05 |CLOSE THE GAME|IMPLEMENTED|
+
+
+
+# LOW LEVEL TEST PLAN
+TEST ID | DESCRIPTION  | HLR ID| STATUS|
+--------|--------------|--------|------|
+LR01 |USER INPUT|HR02|IMPLEMENTED|
+LR02 |FILE SHOWING SET OF CHOICE|HR02|IMPLEMENTED|
+LR03 |COMPUTER INPUT|HR03|IMPLEMENTED|
+LR04 |FILE SHOWING SET OF CHOICE|HR03|IMPLEMENTED|
